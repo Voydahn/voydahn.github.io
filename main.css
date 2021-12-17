@@ -1,11 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500&display=swap');
 
+:root {
+    --WHITE: #fff;
+}
+
 html, body {
   font-family: 'jetbrains mono', monospace;
 }
 
 .theme-dark {
-	--header-primary: #191919;
+    --header-primary: #191919;
     --header-secondary: #191919;
-    --text-normal: #FFF;
+    --text-normal: var(--WHITE);
+    --text-muted: #72767d;
+
+    --interactive-normal: #b9bbbe;
+    --interactive-hover: #dcddde;
+    --interactive-active: var(--WHITE);
 }
