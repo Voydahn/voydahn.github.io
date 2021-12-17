@@ -27,9 +27,9 @@ html, body {
     --interactive-muted: #4f545c;
 
     --background-primary: var(--MAIN-BLACK);
-    --background-secondary: #2f3136;
+    --background-secondary: var(--MAIN-BLACK);
     --background-secondary-alt: #292b2f;
-    --background-tertiary: #202225;
+    --background-tertiary: var(--MAIN-BLACK);
     --background-accent: #4f545c;
     --background-floating: #18191c;
     --background-nested-floating: #2f3136;
