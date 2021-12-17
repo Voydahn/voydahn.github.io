@@ -6,4 +6,6 @@ html, body {
 
 .theme-dark {
 	--header-primary: #191919;
+    --header-secondary: #191919;
+    --text-normal: #FFF;
 }
