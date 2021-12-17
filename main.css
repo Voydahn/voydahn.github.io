@@ -3,9 +3,9 @@
 :root {
     --WHITE: #fff;
 
-    --B-R: 25;
-    --B-G: 25;
-    --B-B: 25;
+    --B-R: 159;
+    --B-G: 14;
+    --B-B: 102;
     --B-A: 1.0;
 
     --MAIN-BLACK: rgba(var(--B-R), var(--B-G), var(--B-B), var(--B-A));
